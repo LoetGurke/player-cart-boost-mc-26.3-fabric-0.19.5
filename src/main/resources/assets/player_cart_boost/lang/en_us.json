@@ -1,0 +1,6 @@
+{
+  "key.category.player_cart_boost.controls": "Player Cart Boost",
+  "key.player_cart_boost.cycle_speed_display": "Cycle minecart speed display",
+  "hud.player_cart_boost.speed_total": "Speed: %s blocks/s",
+  "hud.player_cart_boost.speed_axes": "Speed X: %s | Y: %s | Z: %s blocks/s"
+}

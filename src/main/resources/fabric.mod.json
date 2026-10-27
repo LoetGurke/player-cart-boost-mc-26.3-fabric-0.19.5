@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "player_cart_boost",
+  "version": "${version}",
+  "name": "Player Cart Boost",
+  "description": "Configurable server-side speed cap for player-occupied minecarts.",
+  "authors": ["LoetGurke + ChatGPT/Codex"],
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.example.playercartboost.PlayerCartBoost"],
+    "client": ["dev.example.playercartboost.PlayerCartBoostClient"]
+  },
+  "mixins": ["player_cart_boost.mixins.json"],
+  "depends": { "fabricloader": ">=0.19.5", "minecraft": "~26.3", "java": ">=25", "fabric-api": "*" }
+}

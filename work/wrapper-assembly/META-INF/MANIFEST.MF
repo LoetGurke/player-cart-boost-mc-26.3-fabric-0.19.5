@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: Gradle
+Implementation-Version: 9.8.2
+Implementation-Vendor: Gradle, Inc.
+Implementation-Vendor-Id: org.gradle
+

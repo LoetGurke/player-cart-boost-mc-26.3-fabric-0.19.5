@@ -1,0 +1,6 @@
+{
+  "key.category.player_cart_boost.controls": "Player Cart Boost",
+  "key.player_cart_boost.cycle_speed_display": "Minecart-Speedanzeige umschalten",
+  "hud.player_cart_boost.speed_total": "Geschwindigkeit: %s Blöcke/s",
+  "hud.player_cart_boost.speed_axes": "Geschwindigkeit X: %s | Y: %s | Z: %s Blöcke/s"
+}
